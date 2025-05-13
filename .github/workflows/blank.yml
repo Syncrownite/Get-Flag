@@ -12,7 +12,7 @@ jobs:
         with:
           client-id: 6b62554b-9832-44b8-90d8-70c7c164f90c
           tenant-id: fdd066e1-ee37-49bc-b08f-d0e152119b04
-          subscription-id: 1e82883a-e951-4964-be3a-972a429fc011
+          subscription-id: dcc6c69d-9c95-4b19-a54f-534937316c51
           enable-AzPSSession: true
 
       - name: Download flag
